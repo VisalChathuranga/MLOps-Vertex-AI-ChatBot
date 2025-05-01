@@ -1,4 +1,4 @@
-# VertexAi Demo(LMOps)
+# VertexAi Demo(MLOps)
 
 
 # How to run?
